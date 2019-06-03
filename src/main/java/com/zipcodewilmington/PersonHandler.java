@@ -3,7 +3,7 @@ package com.zipcodewilmington;
 /**
  * Created by leon on 1/24/18.
  */
-public class PersonHandler {
+public class  PersonHandler {
     private final Person[] personArray;
 
     public PersonHandler(Person[] personArray) {
